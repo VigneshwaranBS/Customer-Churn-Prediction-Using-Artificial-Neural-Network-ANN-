@@ -13,17 +13,21 @@ The final model achieves an accuracy of 90% on the test set, with a precision of
 
 ## Requirements
 This project requires Python 3.x and the following packages:
-pandas
-numpy
-scikit-learn
-Usage
+<ul>
+  <li>pandas</li>
+  <li>numpy</li>
+  <li>scikit-learn</li>
+  <li>Fourth item</li>
+</ul>
+
+## Usage
 
 To run the project, download the dataset and save it in the data directory. Then run the Customer Churn Prediction Using Artificial Neural Network (ANN).ipynb to train the models and make predictions on the test set. The results will be saved in the results directory.
 
 ## Future Work
 Future work on this project could include:
 
-Collecting additional data to improve the predictions
-Trying out different machine learning models and algorithms
-Implementing a real-time churn prediction system for the company
-Conducting a cost-benefit analysis to evaluate the impact of the predictions on the company's bottom line
+- Collecting additional data to improve the predictions
+- Trying out different machine learning models and algorithms
+- Implementing a real-time churn prediction system for the company
+- Conducting a cost-benefit analysis to evaluate the impact of the predictions on the company's bottom line
